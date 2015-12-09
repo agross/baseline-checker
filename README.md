@@ -2,9 +2,9 @@
 
 This is a fork of [scribu's baseline checker](http://scribu.net/util/baseline-checker-bookmarklet.html).
 
-In contrast the to above project is serves the bookmarklet via SSL and enables you to check the baseline on pages served with SSL.
+In contrast the to above project this fork serves the bookmarklet via SSL which enables you to check the baseline on pages served with SSL.
 
-Thanks to [raw.githack.com](https://githack.com/) for serving raw GitHub with correct MIME types.
+Thanks to [raw.githack.com](https://githack.com/) for serving raw GitHub files with correct MIME types.
 
 In your browser, create a new bookmark and paste the following in the address/URL field:
 
